@@ -1,0 +1,30 @@
+body {
+  background-color: #eff9cf;
+}
+
+.h1-style {
+  font-size: 32px;
+  font-weight: bold;
+  color: #5a633c;
+
+  padding-top: 20px;
+}
+
+.p-style1 {
+  font-family: arial, tahoma, verdana;
+  font-size: 16px;
+  font-weight: single;
+  color: #333333;
+
+  line-height: 140%;
+
+  width: 700px;
+}
+
+.img-style {
+  width: 150px;
+  float: left;
+
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
